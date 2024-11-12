@@ -21,7 +21,7 @@ Example Input
 Example Output
 2
 */
-public class GetRequestCounting {
+public class GetRequestAgeCounting {
 
     public static void main(String[] args) {
         // Set the user agent to mimic a browser request
